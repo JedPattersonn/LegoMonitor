@@ -2,7 +2,7 @@
 
 ## How to use
 
-```pip3 install tls-client```
+```pip3 install tls-client``` \n
 ```python3 main.py```
 
 - All you need for this is a product ID for the product. You can find this at the end of the product URL. It should only be a few numbers long.
